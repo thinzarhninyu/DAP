@@ -1,1 +1,1 @@
-# DAP
+Notes and Projects for Data Analysis with Python course from FreeCodeCamp.org
