@@ -19,3 +19,8 @@ C, X, Y, Z
 
 importing
 .xlsx, .csv, .xml, data from API
+
+operators
+~ not
+| or
+& and
